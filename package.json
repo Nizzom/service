@@ -1,0 +1,15 @@
+{
+  "name": "service",
+  "version": "1.0.0",
+  "description": "service",
+  "main": "service.js",
+  "scripts": {
+    "tsc": "tsc  service.ts",
+    "start": "node service.js"
+  },
+  "author": "Nizom Asqarov <asqarov.nizom@mail.ru>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.11.7"
+  }
+}
